@@ -1,2 +1,4 @@
 # azure-terraform-basic
-To deploy resources on Azure 
+## Here some usefull information 
+|Commands | Exaplanations|
+| az login| To access azure |
