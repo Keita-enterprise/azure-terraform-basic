@@ -1,0 +1,4 @@
+# Please make to install azure CLI in your environment 
+# Then do :
+1- az login 
+2 Run your terraform code 
